@@ -1,9 +1,8 @@
-# R_Project
-# Zomato Analysis Project
+# R_Project: Zomato Analysis Project
 
 ## Overview
 
-This project involves the analysis of Zomato restaurant data using R Shiny. The provided R Shiny code generates an interactive web application to visualize and explore the dataset. The application offers various visualizations such as bar charts, 3D scatter plots, clustered bar charts, heatmaps, line charts, scatter plots, and an RGL 3D plot.
+This project involves the analysis of `Zomato` restaurant data using `R Shiny` and `Power BI`. The provided R Shiny code generates an interactive web application to visualize and explore the dataset. Leveraging the `shiny`, `dplyr`, and `plotly` packages, the app offers an engaging user interface for exploring relationships between different variables. The application offers various visualizations such as bar charts, 3D scatter plots, clustered bar charts, heatmaps, line charts, scatter plots, and an RGL 3D plot.
 
 ## Dependencies
 
@@ -22,17 +21,6 @@ You can install these packages using the following commands:
 ```R
 install.packages(c("shiny", "dplyr", "plotly", "shinythemes", "rgl", "rpart", "shinyjs"))
 ```
-## Screen Shots
-![Screenshot 2023-12-09 110415](https://github.com/Mehul1611/R_Project/assets/111687116/42ec1f63-2000-4d81-af3d-c3e77ca08433)
-![Screenshot 2023-12-09 110426](https://github.com/Mehul1611/R_Project/assets/111687116/a4d2c567-4462-4707-9e4a-9375cc84dbb1)
-![Screenshot 2023-12-09 110437](https://github.com/Mehul1611/R_Project/assets/111687116/686c6711-eba5-49c6-9c2e-ee1330930d64)
-![Screenshot 2023-12-09 110507](https://github.com/Mehul1611/R_Project/assets/111687116/0500fc3e-5e4c-4bf2-91b9-7f44e58187cd)
-![Screenshot 2023-12-09 110521](https://github.com/Mehul1611/R_Project/assets/111687116/cd909390-8cd5-47b8-a488-4c071e6e751b)
-![Screenshot 2023-12-09 110444](https://github.com/Mehul1611/R_Project/assets/111687116/cc78f2be-8d7a-4dfe-b4c2-02292364789e)
-![Screenshot 2023-12-09 110451](https://github.com/Mehul1611/R_Project/assets/111687116/a00c9e7f-14a6-4880-90a8-7618ddd2504a)
-![Screenshot 2023-12-09 111946](https://github.com/Mehul1611/R_Project/assets/111687116/b9aaa7a9-778f-4ce4-910a-02130775cd43)
-
-
 
 
 ## Data Source
@@ -80,11 +68,22 @@ Ensure that the "ml.r" file containing the model training code is sourced before
 source("E:/R/ml.r")
 ```
 
-## Contributors
--[Mehul Sharma](https://github.com/Mehul1611)
-
--[Madhav Somani](https://github.com/Somanimadhav)
+## Screen Shots
+![Screenshot 2023-12-09 110415](https://github.com/Mehul1611/R_Project/assets/111687116/42ec1f63-2000-4d81-af3d-c3e77ca08433)
+![Screenshot 2023-12-09 110426](https://github.com/Mehul1611/R_Project/assets/111687116/a4d2c567-4462-4707-9e4a-9375cc84dbb1)
+![Screenshot 2023-12-09 110437](https://github.com/Mehul1611/R_Project/assets/111687116/686c6711-eba5-49c6-9c2e-ee1330930d64)
+![Screenshot 2023-12-09 110507](https://github.com/Mehul1611/R_Project/assets/111687116/0500fc3e-5e4c-4bf2-91b9-7f44e58187cd)
+![Screenshot 2023-12-09 110521](https://github.com/Mehul1611/R_Project/assets/111687116/cd909390-8cd5-47b8-a488-4c071e6e751b)
+![Screenshot 2023-12-09 110444](https://github.com/Mehul1611/R_Project/assets/111687116/cc78f2be-8d7a-4dfe-b4c2-02292364789e)
+![Screenshot 2023-12-09 110451](https://github.com/Mehul1611/R_Project/assets/111687116/a00c9e7f-14a6-4880-90a8-7618ddd2504a)
+![Screenshot 2023-12-09 111946](https://github.com/Mehul1611/R_Project/assets/111687116/b9aaa7a9-778f-4ce4-910a-02130775cd43)
 
 ## Disclaimer
 
 This project is provided as a demonstration and may require customization based on your specific needs. The accuracy of predictions depends on the quality and representativeness of the training data used to create the random forest model.
+
+
+## Contributors
+-[Mehul Sharma](https://github.com/Mehul1611)
+-[Madhav Somani](https://github.com/Somanimadhav)
+
