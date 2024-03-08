@@ -26,10 +26,8 @@ install.packages(c("shiny", "dplyr", "plotly", "shinythemes", "rgl", "rpart", "s
 ![Screenshot 2023-12-09 110415](https://github.com/Mehul1611/R_Project/assets/111687116/42ec1f63-2000-4d81-af3d-c3e77ca08433)
 ![Screenshot 2023-12-09 110426](https://github.com/Mehul1611/R_Project/assets/111687116/a4d2c567-4462-4707-9e4a-9375cc84dbb1)
 ![Screenshot 2023-12-09 110437](https://github.com/Mehul1611/R_Project/assets/111687116/686c6711-eba5-49c6-9c2e-ee1330930d64)
-![Screenshot 2023-12-09 110507](https://github.com/Mehul1611/R_Project/assets/111687116/0500fc3e-5e4c-4b
+![Screenshot 2023-12-09 110507](https://github.com/Mehul1611/R_Project/assets/111687116/0500fc3e-5e4c-4bf2-91b9-7f44e58187cd)
 ![Screenshot 2023-12-09 110521](https://github.com/Mehul1611/R_Project/assets/111687116/cd909390-8cd5-47b8-a488-4c071e6e751b)
-f2-91b9-7f44e58187cd)
-
 ![Screenshot 2023-12-09 110444](https://github.com/Mehul1611/R_Project/assets/111687116/cc78f2be-8d7a-4dfe-b4c2-02292364789e)
 ![Screenshot 2023-12-09 110451](https://github.com/Mehul1611/R_Project/assets/111687116/a00c9e7f-14a6-4880-90a8-7618ddd2504a)
 ![Screenshot 2023-12-09 111946](https://github.com/Mehul1611/R_Project/assets/111687116/b9aaa7a9-778f-4ce4-910a-02130775cd43)
